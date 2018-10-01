@@ -1,0 +1,12 @@
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.deps.json
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.runtimeconfig.json
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.runtimeconfig.dev.json
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.dll
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.csprojAssemblyReference.cache
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.csproj.CoreCompileInputs.cache
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.AssemblyInfoInputs.cache
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.AssemblyInfo.cs
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.pdb
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.dll
+C:\Training\Day3Database\Day3Database\obj\Debug\netcoreapp2.1\Day3Database.pdb
+C:\Training\Day3Database\Day3Database\bin\Debug\netcoreapp2.1\Day3Database.dll.config
